@@ -14,8 +14,8 @@ A web application built with Next.js that enables detection and analysis of Pers
 
 - **Frontend**: Next.js 15, React 19, TypeScript
 - **Styling**: Tailwind CSS 4
-- **AI**: Google Gemini AI, Tesseract.js (OCR)
-- **Processing**: PDF-parse, Zod (validation)
+- **AI**: Google Gemini AI
+- **Processing**: Zod (validation)
 - **Icons**: Lucide React
 
 ## Prerequisites
